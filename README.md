@@ -1,4 +1,4 @@
-Hosted Link: 
+Hosted Link: https://kaverichougule.github.io/Assignemnt1_Resume/
 
 # Profile Section
 ![image](https://github.com/kaverichougule/Assignemnt1_Resume/assets/101037685/cc6839af-0a3e-4d23-b51e-339d7e6b952d)
